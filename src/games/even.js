@@ -1,4 +1,4 @@
-import rangeRandom from '../random.js';
+import { rangeRandom } from '../random.js';
 
 const MIN_NUMBER = 1;
 const MAX_NUMBER = 30;
