@@ -2,6 +2,10 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "My Hexlet first project",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Seryiza/frontend-project-lvl1.git"
